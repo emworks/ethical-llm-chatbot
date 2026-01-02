@@ -1,0 +1,6 @@
+chromadb
+ollama
+nltk
+pydantic
+telebot
+yake
